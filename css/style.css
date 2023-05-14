@@ -27,6 +27,15 @@ body {
     font-size: var(--font-size);
 }
 
+body {
+    position: relative;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+}
+
 .card {
     background-color: var(--white);
     border-radius: 1rem;
@@ -67,7 +76,7 @@ body {
     color: var(--grayish-blue);
     opacity: 0.25;
     position: absolute;
-    right: 5px;
+    right: 50px;
 }
 
 /*350px*/
