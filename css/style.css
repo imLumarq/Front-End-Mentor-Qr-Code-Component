@@ -71,14 +71,6 @@ main {
     text-align: center;
 }
 
-.author {
-    bottom: 0;
-    color: var(--grayish-blue);
-    opacity: 0.25;
-    position: absolute;
-    right: 50px;
-}
-
 /*350px*/
 @media (width < 21.875em) {
     .card {
